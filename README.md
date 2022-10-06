@@ -16,9 +16,23 @@
 
 
 ### :man_technologist: Обо мне :
-Я Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России. Программированием начал заниматься с февраля 2022 года, а через месяц приобрел курс Python-разработчика от Яндекс.Практикума. Мне нравится заниматься программированием, потому что оно позволяется творить и создавать. Сейчас нахожусь в активном поиске работы
+Я Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+
+Во время ковида узнал подробнее про разработку и программирование, неделю пробовал и узнавал что именно выбрать для себя и выбрал Python. Активно начал учить его с ноября 2021 года, а через 4 месяца приобрел курс Python-разработчика от Яндекс.Практикум. Мне нравится заниматься программированием, потому что оно позволяется творить и создавать. Сейчас нахожусь в активном поиске работы.
+
+Стек технологий: **Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, Bootstrap 4/5, HTML, git, pytest, unittest, tdd, venv, API, json, Linux, nginx**.
 
 
+## Основной стек технологий:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="80" height="80"/>&nbsp;
+</div>
 
 
 <!-- ЭТО ЗМЕЙКА -->
