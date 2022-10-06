@@ -32,7 +32,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="80" height="80"/>&nbsp;
-</div>
+</div><br>
+
+
+
+### :fire: Моя статистика:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=32aleksey32&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=32Aleksey32&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ЭТО ЗМЕЙКА -->
@@ -55,17 +62,5 @@
   <img src="https://komarev.com/ghpvc/?username=32aleksey32&style=flat-square&color=blueviolet" alt=""/>
 </div>
 
-<!-- ЭТО НАДПИСЬ WELCOME!
-<h3 align="center">
-<img src="https://camo.githubusercontent.com/d9e3fdec3ea977132fc992db53589aef47e4d5436076724322bdc4b8fb7dc8d2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3235362673656374696f6e3d68656164657226746578743d48656c6c6f253230576f726c642126666f6e7453697a653d373526616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d57656c636f6d65253230746f2532306d7925323047697448756225323070726f66696c652125323050757425323073746172732c253230666f726b253230616e64253230636f6e74726962757465212664657363416c69676e593d35312664657363416c69676e3d3632" alt="header" data-canonical-
-</h3>
- -->
 
 
-
-  
-<!-- ЭТО НАДПИСЬ COME AGAIN 
-<h3 align="center">
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a53d04f8f98cd60ef48bc291b7dbb1d22bc99f8685cf91c1cf219447814ebbd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736f667426636f6c6f723d6772616469656e7426746578743d436f6d65253230616761696e2126666f6e7453697a653d343026616e696d6174696f6e3d7477696e6b6c696e67"><img src="https://camo.githubusercontent.com/7a53d04f8f98cd60ef48bc291b7dbb1d22bc99f8685cf91c1cf219447814ebbd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736f667426636f6c6f723d6772616469656e7426746578743d436f6d65253230616761696e2126666f6e7453697a653d343026616e696d6174696f6e3d7477696e6b6c696e67" alt="soft" data-canonical-src="https://capsule-render.vercel.app/api?type=soft&amp;color=gradient&amp;text=Come%20again!&amp;fontSize=40&amp;animation=twinkling" style="max-width: 100%;"></a></p>
-</h3> 
--->
