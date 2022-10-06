@@ -7,9 +7,8 @@
 
 
 <!-- ЭТО БОЛЬШАЯ ГИФКА -->
-<div align="center">
   <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="650" height="350"/>
-</div>
+
 
 
 ### :man_technologist: Обо мне :
@@ -32,11 +31,14 @@
 </div><br>
 
 
-
 ### :fire: Моя статистика:
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=32aleksey32&theme=dark&background=000000)](https://git.io/streak-stats)-->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=32Aleksey32&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=32Aleksey32&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api?username=32Aleksey32&hide=contribs&locale=ru&show_icons=true&line_height=20&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Aleksey32&layout=compact&locale=ru&card_width=400&hide=procfile&theme=vision-friendly-dark" />
+</a>
 
 <!-- ЭТО ЗМЕЙКА -->
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
@@ -49,11 +51,6 @@
     <a href="https://t.me/Aleksey_A_Osipov" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <!--
-    <a href="https://vk.com/id151204734">
-      <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
-    </a>
-    -->
   </div>
   <img src="https://komarev.com/ghpvc/?username=32aleksey32&style=flat-square&color=blueviolet" alt=""/>
 </div>
