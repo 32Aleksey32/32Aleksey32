@@ -37,7 +37,7 @@
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api?username=32Aleksey32&hide=contribs&locale=ru&show_icons=true&line_height=20&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Aleksey32&layout=compact&locale=ru&card_width=300&hide=procfile&theme=vision-friendly-dark" />
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Aleksey32&layout=compact&locale=ru&hide=procfile&theme=vision-friendly-dark" />
 </a>
 
 <!-- ЭТО ЗМЕЙКА -->
