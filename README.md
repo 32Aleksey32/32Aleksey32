@@ -1,12 +1,9 @@
 <h1 align="center">Привет, я Алексей
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-
-<!-- ЭТО НАДПИСЬ PYTHON BACHEND DEVELOPER -->
-<h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Python+Backend+Developer" alt="Typing SVG" />
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  <p> и я </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Python+Backend+Developer" alt="Typing SVG" />
   </a>
-</h3>
 
 
 <!-- ЭТО БОЛЬШАЯ ГИФКА -->
@@ -16,7 +13,7 @@
 
 
 ### :man_technologist: Обо мне :
-Я Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Я разрабочик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России. Мне 25 лет.
 
 Во время ковида узнал подробнее про разработку и программирование, неделю пробовал и узнавал что именно выбрать для себя и выбрал Python. Активно начал учить его с ноября 2021 года, а через 4 месяца приобрел курс Python-разработчика от Яндекс.Практикум. Мне нравится заниматься программированием, потому что оно позволяется творить и создавать. Сейчас нахожусь в активном поиске работы.
 
@@ -37,9 +34,8 @@
 
 
 ### :fire: Моя статистика:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=32aleksey32&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=32Aleksey32&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=32aleksey32&theme=dark&background=000000)](https://git.io/streak-stats)-->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=32Aleksey32&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=32Aleksey32&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ЭТО ЗМЕЙКА -->
@@ -62,5 +58,5 @@
   <img src="https://komarev.com/ghpvc/?username=32aleksey32&style=flat-square&color=blueviolet" alt=""/>
 </div>
 
-
+</h1>
 
