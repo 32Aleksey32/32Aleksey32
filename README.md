@@ -12,7 +12,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
   <div id="badges">
-    <a target="_blank" href="https://t.me/Aleksey_A_Osipov">
+    <a href="https://t.me/Aleksey_A_Osipov" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <!--
