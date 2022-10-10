@@ -6,9 +6,9 @@
   </a>
 
 
-<!-- ЭТО БОЛЬШАЯ ГИФКА -->
+<!-- ЭТО БОЛЬШАЯ ГИФКА 
   <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="650" height="350"/>
-
+-->
 
 
 ### :man_technologist: Обо мне :
