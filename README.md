@@ -35,10 +35,10 @@
 ### :fire: Моя статистика:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api?username=32Aleksey3&hide=contribs&locale=ru&show_icons=true&line_height=20&theme=vision-friendly-dark" />
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api?username=32Aleksey32&hide=contribs&locale=ru&show_icons=true&line_height=20&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Aleksey3&layout=compact&card_width=350&locale=ru&hide=procfile&theme=vision-friendly-dark" />
+  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Aleksey32&layout=compact&card_width=350&locale=ru&hide=procfile&theme=vision-friendly-dark" />
 </a>
 
 
