@@ -47,7 +47,7 @@
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
 
 
-<!-- ЭТО ГИФКА ЧЕЛ РАБОТАЕТ ЗА КОМПОМ И ССЫЛКИ НА ПРОФИЛЬ 
+<!-- ЭТО ГИФКА ЧЕЛ РАБОТАЕТ ЗА КОМПОМ И ССЫЛКИ НА ПРОФИЛЬ -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
   <div id="badges">
@@ -59,4 +59,4 @@
 </div>
 
 </h1>
--->
+
