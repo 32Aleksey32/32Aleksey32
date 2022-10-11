@@ -32,6 +32,7 @@
 </div><br>
 
 
+<!-- СТАТИСТИКА
 ### :fire: Моя статистика:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -40,7 +41,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Aleksey32&layout=compact&card_width=350&locale=ru&hide=procfile&theme=vision-friendly-dark" />
 </a>
-
+ -->
 
 <!-- ЭТО ЗМЕЙКА -->
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
