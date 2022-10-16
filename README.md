@@ -14,7 +14,7 @@
 ### :man_technologist: Обо мне :
 Я разрабочик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России. Мне 25 лет.
 
-Во время ковида узнал подробнее про разработку и программирование, неделю пробовал и узнавал что именно выбрать для себя и выбрал Python. Активно начал учить его с ноября 2021 года, а через 4 месяца приобрел курс Python-разработчика от Яндекс.Практикум и сейчас его прохожу. Мне нравится заниматься программированием, потому что оно позволяется творить и создавать. В сободное время изучаю английский язык.
+Во время ковида узнал подробнее про разработку и программирование, неделю пробовал и узнавал что именно выбрать для себя и выбрал Python. Активно начал учить его с ноября 2021 года, а через 4 месяца приобрел курс Python-разработчика от Яндекс.Практикум и сейчас его прохожу. Мне нравится заниматься программированием, потому что оно позволяет творить и создавать. В сободное время изучаю английский язык.
 Сейчас нахожусь в активном поиске работы.
 
 Стек технологий: **Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, Bootstrap 4/5, HTML, git, pytest, unittest, tdd, venv, API, json, Linux, nginx**.
@@ -47,7 +47,7 @@
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
 
 
-<!-- ЭТО ГИФКА ЧЕЛ РАБОТАЕТ ЗА КОМПОМ И ССЫЛКИ НА ПРОФИЛЬ -->
+<!-- ЭТО ГИФКА ЧЕЛ РАБОТАЕТ ЗА КОМПОМ И ССЫЛКИ НА ПРОФИЛЬ
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
   <div id="badges">
@@ -55,7 +55,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=32aleksey32&style=flat-square&color=blueviolet" alt=""/>
 </div>
+ -->
 
 </h1>
