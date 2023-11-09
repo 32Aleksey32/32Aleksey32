@@ -16,7 +16,7 @@
 
 Во время ковида узнал подробнее про разработку и программирование, неделю пробовал и узнавал что именно выбрать для себя и выбрал Python. Активно начал учить его с февраля 2022 года и через месяц приобрел курс Python-разработчика от Яндекс.Практикум.
 
-Стек технологий: **Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, Bootstrap 4/5, HTML, git, pytest, unittest, tdd, venv, API, json, Linux, nginx**.
+Стек технологий: **Python, SQLalchemy, Django, Django REST Framework, REST API, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, Bootstrap 4/5, HTML, git, pytest, venv, API, json, Linux, nginx**.
 
 
 ## Основной стек технологий:
