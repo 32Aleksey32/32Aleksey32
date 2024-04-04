@@ -1,12 +1,31 @@
-<!--<h1 align="center">Привет, я Алексей
+<h1 align="center">Привет, я Алексей
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   <p> и я </p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&height=29&lines=Python+Backend+Developer" alt="Typing SVG" />
   </a>
--->
 
 
+### 🛠 Технологии и инструменты, с которыми я работаю
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-009688?style=flat-square&logo=django)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=SQLAlchemy&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=Celery&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=Gunicorn&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Gitlab](https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=32aleksey32&show_icons=true&theme=dark" alt="username's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=32aleksey32&layout=compact&theme=dark" alt="Top Langs" />
 
 <!--### :man_technologist: Обо мне :
 Я разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России. Мне 26 лет.
@@ -17,6 +36,8 @@
 -->
 
 
+
+<!--
 ## Основной стек технологий:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
@@ -28,7 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" alt="sqlalchemy" width="80" height="80"/>&nbsp;
 </div><br>
-
+-->
 
 <!-- СТАТИСТИКА
 ### :fire: Моя статистика:
