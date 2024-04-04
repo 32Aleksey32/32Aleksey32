@@ -23,10 +23,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white)
 
-
+<p align="center">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=32aleksey32&show_icons=true&theme=dark" alt="username's GitHub stats" />-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=32aleksey32&layout=compact&theme=dark" alt="Top Langs" />
-
+</p>
 <!--### :man_technologist: Обо мне :
 Я разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России. Мне 26 лет.
 
