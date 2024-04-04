@@ -24,7 +24,7 @@
 ![Gitlab](https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=32aleksey32&show_icons=true&theme=dark" alt="username's GitHub stats" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=32aleksey32&show_icons=true&theme=dark" alt="username's GitHub stats" />-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=32aleksey32&layout=compact&theme=dark" alt="Top Langs" />
 
 <!--### :man_technologist: Обо мне :
