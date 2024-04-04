@@ -6,22 +6,25 @@
   </a>
 
 
-### 🛠 Технологии и инструменты, с которыми я работаю
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-009688?style=flat-square&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=SQLAlchemy&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=Celery&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=Gunicorn&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Gitlab](https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white)
+<h3 align="center">🛠 Технологии и инструменты, с которыми я работаю</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/-Django%20REST%20Framework-009688?style=flat-square&logo=django" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=SQLAlchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=Celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=Gunicorn&logoColor=white" alt="Gunicorn" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" />
+</p>
+
+
 
 <p align="center">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=32aleksey32&show_icons=true&theme=dark" alt="username's GitHub stats" />-->
