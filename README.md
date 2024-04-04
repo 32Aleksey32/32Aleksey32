@@ -1,22 +1,20 @@
-<h1 align="center">Привет, я Алексей
+<!--<h1 align="center">Привет, я Алексей
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   <p> и я </p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&height=29&lines=Python+Backend+Developer" alt="Typing SVG" />
   </a>
-
-
-<!-- ЭТО БОЛЬШАЯ ГИФКА 
-  <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="650" height="350"/>
 -->
 
 
-### :man_technologist: Обо мне :
+
+<!--### :man_technologist: Обо мне :
 Я разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России. Мне 26 лет.
 
 Во время ковида узнал подробнее про разработку и программирование, неделю пробовал и узнавал что именно выбрать для себя и выбрал Python. Активно начал учить его с февраля 2022 года и через месяц приобрел курс Python-разработчика от Яндекс.Практикум.
 
 Стек технологий: **Python, SQLalchemy, Django, Django REST Framework, REST API, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, Bootstrap 4/5, HTML, git, pytest, venv, API, json, Linux, nginx**.
+-->
 
 
 ## Основной стек технологий:
@@ -44,7 +42,7 @@
  -->
 
 <!-- ЭТО ЗМЕЙКА -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
+<!-- <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">-->
 
 
 <!-- ЭТО ГИФКА ЧЕЛ РАБОТАЕТ ЗА КОМПОМ И ССЫЛКИ НА ПРОФИЛЬ
